@@ -54,14 +54,14 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
   
 
-5. Elements of Style  
+## 5. Elements of Style  
 
-5.1 Lyrical Themes  
+### 5.1 Lyrical Themes  
 - Social commentary (racism, poverty, politics)  
 - Braggadocio and wordplay  
 - Storytelling and narratives  
 
-5.2 Production Techniques  
+### 5.2 Production Techniques  
 - Sampling from funk, jazz, and soul records  
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
