@@ -29,7 +29,7 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 ![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-- Rapper’s Delight by the [Sugarhill](https://youtu.be/mcCK99wHrk0) Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences.   
+- Rapper’s Delight by the [Sugarhill Gang](https://youtu.be/mcCK99wHrk0)  (1979) is widely recognized as the first recorded rap single to reach mainstream audiences.   
 - [Run-DMC](https://youtu.be/l-O5IHVhWj0) fused rock and rap, creating crossover hits.   
 - [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.  
 
@@ -72,10 +72,10 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 | Religion | Key Artists | Notable Albums |
 | ----------- | ----------- | ----------- |
-| East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers |  
-| West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton | 
-| Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal | 
-| South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik | 
+| East Coast | Nas, Biggie, Wu-Tang Clan | [Illmatic](http://en.wikipedia.org/wiki/Illmatic), [Ready to Die](https://en.wikipedia.org/wiki/Ready_to_Die), [36 Chambers](https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers)) |  
+| West Coast | Tupac, N.W.A., Ice Cube | [All Eyez on Me](https://en.wikipedia.org/wiki/All_Eyez_on_Me), [Straight Outta Compton](https://en.wikipedia.org/wiki/Straight_Outta_Compton) | 
+| Midwest   | Common, Bone Thugs-N-Harmony | [Resurrection](https://en.wikipedia.org/wiki/Resurrection_(Common_album)), [E. 1999 Eternal](https://en.wikipedia.org/wiki/E._1999_Eternal) | 
+| South     | Outkast, Geto Boys    | [Southernplayalisticadillacmuzik](https://en.wikipedia.org/wiki/Southernplayalisticadillacmuzik) | 
 
 ## 7. Transition to the 2000s  
 
