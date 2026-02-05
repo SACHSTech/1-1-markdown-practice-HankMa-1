@@ -18,7 +18,6 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
       2. Backend
          - Node.js
          - Deno
-
 2. Databases
     - Relational
       1. PostgreSQL
