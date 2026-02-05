@@ -56,3 +56,4 @@ Now this is a hard break (blank line above),<br> which creates a brand new parag
 | **GitHub** | Easy collaboration, integrates CI/CD | Requires knowledge of `git` |
 | Markdown | Lightweight, portable, human-readable | Limited styling compared to HTML |
 | VS Code | Extensions, debugging, free | Can feel heavy on low-end machines
+
